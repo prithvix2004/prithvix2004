@@ -66,7 +66,7 @@ Student Management System is a Django-based web app for managing student records
 
 ## Let's Connect
 
-- 💼 LinkedIn: [your LinkedIn]
+- 💼 LinkedIn: [https://www.linkedin.com/in/prithvi-ram-p-0176752a3?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
 - 📧 Email: [prithviramx2004@gmail.com]
 
 ## Philosophy
