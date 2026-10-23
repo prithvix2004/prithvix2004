@@ -64,12 +64,6 @@ Student Management System is a Django-based web app for managing student records
 - Learn [more about software]
 - Contribute more to [GitHub]
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[prithvix2004]&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[prithvix2004]&layout=compact&theme=tokyonight)
-
 ## Let's Connect
 
 - 💼 LinkedIn: [your LinkedIn]
