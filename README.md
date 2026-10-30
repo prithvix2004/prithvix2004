@@ -122,7 +122,7 @@ A C-based lab repository focused on algorithmic thinking and data structures.
 
 ## GitHub Stats
 
-p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AK-DEV-ASH&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
