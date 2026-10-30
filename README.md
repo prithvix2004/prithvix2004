@@ -122,14 +122,10 @@ A C-based lab repository focused on algorithmic thinking and data structures.
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prithvix2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvix2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prithvix2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvix2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 ---
 
 ## Connect with Me
